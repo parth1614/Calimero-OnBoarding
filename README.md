@@ -1,1 +1,1 @@
-# Calimero Network<sup>TM</sup> Private Sharding ![Calimero Docs](https://docs.calimero.network/) [![Calimero Bridge](https://codecov.io/gh/synthetichealth/synthea/branch/master/graph/badge.svg)](https://codecov.io/gh/synthetichealth/synthea)
+# Calimero Network<sup>TM</sup> Private Sharding
