@@ -1,1 +1,1 @@
-# Calimero Network<sup>TM</sup>: The Private Sharding
+# Calimero Network<sup>TM</sup> : The Private Sharding
