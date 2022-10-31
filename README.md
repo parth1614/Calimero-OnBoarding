@@ -18,5 +18,9 @@ Currently, Calimero<sup>TM</sup> Network features include:
     - Ghost toolkit provides the developers the ability to generate and build private smart contracts between parties using encryption and zero-knowledge techniques
 - `Calimero SDK`
     - Calimero SDK is NEAR's intuitive developer tooling that lets you build contracts in common languages like Rust, JavaScript or AssemblyScript
-
+## Calimero's Self-Assessment
+After you've gone through the official documentations and gathered knowledge, we'd like you to complete an assessment to test and get your fundamentals right and strong.
+Please Access the **Assessment Here** and the **Summaries Here** 
 # Developer Quick Start
+These instructions are intended for those wishing to examine the Synthea source code, extend it or build the code locally. 
+
